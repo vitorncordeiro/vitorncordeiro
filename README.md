@@ -1,5 +1,6 @@
-# 💫 About Me:
+# About Me:
 💻 Software Engineer student at PUCPR
+☕ Java Studant & Enjoyer
 
 
 ## 🌐 Socials:

@@ -1,4 +1,4 @@
-![Duke](https://i.redd.it/ga530d1ck9pd1.gif)
+![Duke](https://www.jetbrains.com/lp/java-30/static/duke-for-heading-8e509fbbd55cb0ea06d0cf5b58b7d857.svg)
 
 # About Me:
 💻 Software Engineer student at PUCPR

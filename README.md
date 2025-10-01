@@ -1,4 +1,4 @@
-![Duke](https://i.redd.it/ga530d1ck9pd1.gif](https://images-ext-1.discordapp.net/external/L3Lb5F5AfuqyYpNbEXNutnMezScwqUKa1XFBpDyja0w/https/i.redd.it/ga530d1ck9pd1.gif?width=862&height=862))
+![Duke](https://i.redd.it/ga530d1ck9pd1.gif)
 
 # About Me:
 💻 Software Engineer student at PUCPR

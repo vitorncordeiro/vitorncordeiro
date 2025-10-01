@@ -1,3 +1,5 @@
+https://i.redd.it/ga530d1ck9pd1.gif
+
 # About Me:
 💻 Software Engineer student at PUCPR
 ☕ Java Studant & Enjoyer

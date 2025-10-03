@@ -1,4 +1,4 @@
-![DukeDetective](https://media.discordapp.net/attachments/662375257591513088/1422746745179344987/image-removebg-preview.png?ex=68ddcba9&is=68dc7a29&hm=2341dd01d3df38718d0fea880ac1bf0a7378b2a64564441bb7cc0475d7f30802&=&format=webp&quality=lossless) ![DukeCake](https://www.jetbrains.com/lp/java-30/static/duke-for-heading-8e509fbbd55cb0ea06d0cf5b58b7d857.svg) ![DukeHeadphones](https://media.discordapp.net/attachments/662375257591513088/1422747277214355508/image-removebg-preview_1.png?ex=68ddcc28&is=68dc7aa8&hm=9413a4eb4fb7544b6482a627243a2f43f305f409db1482dd5d7be062128187ca&=&format=webp&quality=lossless)
+![Duke](https://blog.jetbrains.com/wp-content/uploads/2025/09/AD_4nXcPtcLrKficfbw5LRJJsbFrW0k7GamQDDcZmgKskqarL40kAq6L97bpvPfwxLevHW4fShtBatlHMwAQLj5wPnkm7CVS5CRZKSavQxGlElfas3uYb6nUZcKfM1f6cWHR-U8IVfqK7A.png)
 
 # About Me:
 💻 Software Engineer student at PUCPR

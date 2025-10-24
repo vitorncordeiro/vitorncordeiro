@@ -1,7 +1,7 @@
 ![Duke](https://blog.jetbrains.com/wp-content/uploads/2025/09/AD_4nXcPtcLrKficfbw5LRJJsbFrW0k7GamQDDcZmgKskqarL40kAq6L97bpvPfwxLevHW4fShtBatlHMwAQLj5wPnkm7CVS5CRZKSavQxGlElfas3uYb6nUZcKfM1f6cWHR-U8IVfqK7A.png)
 
 # About Me:
-💻 Software Engineer student at PUCPR
+💻 Software Engineer student at PUCPR - Brazil
 ☕ Java Studant & Enjoyer
 
 

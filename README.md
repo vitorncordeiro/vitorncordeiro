@@ -4,7 +4,11 @@
 
 ###
 
-<h2 align="center">Software Engineering Student<br> Backend enthusiast</h2>
+<p align="left">I'm Vitor Natal Cordeiro, a Software Engineering studant & backend enthusiast. I am currently a technology intern at the Scientific Police of Paraná, in the forensic molecular genetics session.</p>
+
+###
+
+<h2 align="center">My Tech Stack</h2>
 
 ###
 
@@ -33,21 +37,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/vitor-natal-cordeiro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorncordeiro/vitorncordeiro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorncordeiro/vitorncordeiro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorncordeiro/vitorncordeiro/output/pacman-contribution-graph.svg">
-</picture>
 
 ###

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="503" src="https://media.discordapp.net/attachments/662375257591513088/1472782471727939594/Gemini_Generated_Image_xmyw8fxmyw8fxmyw.png?ex=6993d310&is=69928190&hm=05873c7984228c5eec107d88459c49670c4d3e904e6c5d20e752f870e564281f&=&format=webp&quality=lossless&width=1330&height=760"  />
+  <img height="503" src="[https://media.discordapp.net/attachments/662375257591513088/1472782471727939594/Gemini_Generated_Image_xmyw8fxmyw8fxmyw.png?ex=6993d310&is=69928190&hm=05873c7984228c5eec107d88459c49670c4d3e904e6c5d20e752f870e564281f&=&format=webp&quality=lossless&width=1330&height=760](https://github.com/vitorncordeiro/natalwebsite/blob/main/public/444c0b9d-34ff-4ba4-9386-174586085cd0.jpeg?raw=true)"  />
 </div>
 
 ###

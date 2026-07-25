@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="503" src="https://raw.githubusercontent.com/vitorncordeiro/natalwebsite/refs/heads/main/public/444c0b9d-34ff-4ba4-9386-174586085cd0.jpeg"  />
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/4ae82f6a-58bc-4555-b187-0e36d5c7f727.gif" alt="pixel-art-readme-gifs" width="100%">
 </div>
 
 ###

@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Vitor Natal Cordeiro, a Software Engineering studant & backend enthusiast. I am currently a technology intern at the Scientific Police of Paraná, in the forensic molecular genetics session.</p>
+<p align="left">I'm Vitor Natal Cordeiro, a Software Engineering studant & backend enthusiast. I am currently a SWE intern at the Paraná Scientific Police, in the forensic molecular genetics session.</p>
 
 ###
 
